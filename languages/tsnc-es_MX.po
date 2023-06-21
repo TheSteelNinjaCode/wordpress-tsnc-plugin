@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TSNC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-04 00:27+0000\n"
+"PO-Revision-Date: 2022-04-04 00:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de México\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: tsnc"
+
+#: admin/settings-callbacks.php:109
+msgid "Blue"
+msgstr "Azul"
+
+#: admin/settings-callbacks.php:110
+msgid "Coffee"
+msgstr "Café"
+
+#: admin/settings-register.php:88
+msgid "Custom CSS for the Login screen"
+msgstr "CSS personalizado para la pantalla de inicio de sesión"
+
+#: admin/settings-register.php:102
+msgid "Custom Footer"
+msgstr "Pie de página personalizado"
+
+#: admin/settings-register.php:106
+msgid "Custom footer text"
+msgstr "Texto de pie de página personalizado"
+
+#: admin/settings-register.php:93
+msgid "Custom Message"
+msgstr "Mensaje personalizado"
+
+#: admin/settings-register.php:120
+msgid "Custom Scheme"
+msgstr "Esquema personalizado"
+
+#: admin/settings-register.php:84
+msgid "Custom Style"
+msgstr "Estilo personalizado"
+
+#: admin/settings-register.php:97
+msgid "Custom text and/or markup"
+msgstr "Texto y/o marcado personalizado"
+
+#: admin/settings-register.php:75
+msgid "Custom Title"
+msgstr "Título Personalizado"
+
+#: admin/settings-register.php:79
+msgid "Custom title attribute for the logo link"
+msgstr "Atributo de título personalizado para el enlace del logotipo"
+
+#: admin/settings-register.php:111
+msgid "Custom Toolbar"
+msgstr "Barra de herramientas personalizada"
+
+#: admin/settings-register.php:66
+msgid "Custom URL"
+msgstr "URL personalizada"
+
+#: admin/settings-register.php:70
+msgid "Custom URL for the login logo link"
+msgstr "URL personalizada para el enlace del logotipo de inicio de sesión"
+
+#: admin/settings-register.php:46
+msgid "Customize Admin Area"
+msgstr "Personalizar el área de administración"
+
+#: admin/settings-register.php:39
+msgid "Customize Login Page"
+msgstr "Personalizar página de inicio de sesión"
+
+#: admin/settings-callbacks.php:107
+msgid "Default"
+msgstr "Por defecto"
+
+#: admin/settings-register.php:124
+msgid "Default color scheme for new users"
+msgstr "Esquema de color predeterminado para nuevos usuarios"
+
+#: admin/settings-callbacks.php:42
+msgid "Disable custom styles"
+msgstr "Deshabilitar estilos personalizados"
+
+#: admin/settings-callbacks.php:111
+msgid "Ectoplasm"
+msgstr "Ectoplasma"
+
+#: admin/settings-callbacks.php:41
+msgid "Enable custom styles"
+msgstr "Habilitar estilos personalizados"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://thesteelninjacode.com"
+msgstr "https://thesteelninjacode.com"
+
+#. Author of the plugin
+msgid "Jefferson Abraham"
+msgstr "Jefferson Abraham"
+
+#: admin/settings-callbacks.php:108
+msgid "Light"
+msgstr "Ligero"
+
+#: admin/settings-callbacks.php:112
+msgid "Midnight"
+msgstr "Medianoche"
+
+#: tsnc.php:69
+msgid "My custom message"
+msgstr "Mi mensaje personalizado"
+
+#: admin/settings-callbacks.php:113
+msgid "Ocean"
+msgstr "Oceano"
+
+#: tsnc.php:67
+msgid "Powered by WordPress"
+msgstr "Desarrollado por WordPress"
+
+#: admin/settings-register.php:115
+msgid "Remove new post and comment links from the Toolbar"
+msgstr ""
+"Eliminar nuevos enlaces de comentarios y publicaciones de la barra de "
+"herramientas"
+
+#: tsnc.php:70
+msgid "Special message for users"
+msgstr "Mensaje especial para los usuarios"
+
+#: admin/settings-callbacks.php:114
+msgid "Sunrise"
+msgstr "Amanecer"
+
+#. Description of the plugin
+msgid ""
+"The (TSNC) Plugin is for custom your \"WordPress Admin Area\", available at "
+"thesteelninjacode.com."
+msgstr ""
+"El complemento (TSNC) es para personalizar su \"Área de administración de "
+"WordPress\", disponible en thesteelninjacode.com."
+
+#: admin/settings-callbacks.php:18
+msgid "These settings enable you to customize the WP Admin Area."
+msgstr ""
+"Esta configuración le permite personalizar el Área de administración de WP."
+
+#: admin/settings-callbacks.php:11
+msgid "These settings enable you to customize the WP Login screen."
+msgstr ""
+"Esta configuración le permite personalizar la pantalla de inicio de sesión "
+"de WP."
+
+#. Name of the plugin
+msgid "TSNC"
+msgstr "TSNC"
+
+#: admin/admin-menu.php:25
+msgid "TSNC Settings"
+msgstr "Configuración de TSNC"
